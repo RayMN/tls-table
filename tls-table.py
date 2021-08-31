@@ -21,8 +21,8 @@ COMPAT_ORDER = ['Old', 'Intermediate', 'Modern']
 # Styles for the table
 COMPAT_STYLE_NO_MATCH = 'background-color: white;'
 COMPAT_STYLE = {
-    'Modern': 'background-color: #9EDB58; font-weight: bold;',
-    'Intermediate': 'background-color: #DBC158; font-weight: bold;',
+    'Modern': 'background-color: #CCCC00; font-weight: bold;',
+    'Intermediate': 'background-color: #CCCCFF; font-weight: bold;',
     'Old': 'background-color: #CCCCCC; font-weight: bold;'
 }
 
